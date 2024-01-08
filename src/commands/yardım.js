@@ -8,8 +8,8 @@ module.exports = {
     run: async (client, interaction) => {
         const Yardım = new EmbedBuilder()
             .setColor("Blurple")
-            .setImage("https://media.discordapp.net/attachments/1004368050038001804/1086953067301310524/standard_1.gif")
-            .setTitle("Fr3zy Youtube • Moderasyon Menüsü")
+            .setImage("https://cdn.discordapp.com/attachments/1132009703891800226/1193928850615304263/Adsz_tasarm_2.gif?ex=65ae7fe4&is=659c0ae4&hm=3019fdfdd0c5c96a6fdd3360a24730bc8701109e41f4a1f9469520125496f0d6&")
+            .setTitle("Tween • Yardım Menüsü")
             .setDescription(`                
                 **/ban** • Belirtilen kişiyi sunucudan banlar.
                 **/kick** • Belirtilen kişiyi sunucudan atar.
